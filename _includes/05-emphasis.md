@@ -1,0 +1,12 @@
+### Languages, Tools, and Frameworks:
+- **HTML**
+- **CSS**
+- **JavaScript**
+- Bootstrap
+- SASS
+- React
+- Redux
+- *Atom.io*
+- *Visual Studio Code*
+- D3
+- REST APIs
