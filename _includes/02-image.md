@@ -1,1 +1,1 @@
-![Image of Burger](https://github.com/jjrock36/hello-world/blob/master/BurgerBabe.jpg?raw=true)
+![Image of daftpunktocat-guy](https://octodex.github.com/images/daftpunktocat-guy.gif)
