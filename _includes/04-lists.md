@@ -1,4 +1,4 @@
-##An Aspiring Web Developer, Mountain Biker, Car Enthusiast, and Regional Account Manager!
+## An Aspiring Web Developer, Mountain Biker, Car Enthusiast, and Regional Account Manager!
 - :computer: Currently working on landing a Front-End Web Development/Design career! :pray:
 - :mortar_board: Recently graduated from Brigham Young University :earth_asia: majoring in Korean, minoring in Business and Global Business 
 - :books: Learned Web Development online through [freecodecamp.org](https://www.freecodecamp.org/), [lynda.com](https://www.lynda.com/), and lots of determination :muscle:
