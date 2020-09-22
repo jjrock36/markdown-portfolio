@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### Languages, Tools, and Frameworks:
+- **HTML**
+- **CSS**
+- **JavaScript**
+- Bootstrap
+- SASS
+- React
+- Redux
+- *Atom.io*
+- *Visual Studio Code*
+- D3
+- REST APIs
